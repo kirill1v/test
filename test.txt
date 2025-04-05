@@ -1,1 +1,3 @@
 print("hello world");
+print("hello ld");
+print("hello d");
