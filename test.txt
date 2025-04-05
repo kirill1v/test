@@ -1,6 +1,7 @@
 print("hello world");
 print("hello ld");
 print("hello d");
+float health;
 
 print("123");
 print("123");
